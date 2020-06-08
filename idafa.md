@@ -1,5 +1,3 @@
-## My grammar notes
-
 ## idafa
 - Possesive structure
 
