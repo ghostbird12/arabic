@@ -1,6 +1,6 @@
 ## Example
 
-[Link](/anotherpage.md)
+[grammar notes](/grammar.md)
 
 
 3amr : age
