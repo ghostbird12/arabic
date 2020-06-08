@@ -1,10 +1,11 @@
 ## Example
 
 3amr : age
-Pronoun | Change
---------|--------
-mine | 3amri
-your (m) | 3amrak
-your (f) | 3amrik
-his | ?
-hers | 3amerha
+
+mine : 3amri
+
+your (m) : 3amrak
+
+your (f) : 3amrik
+
+hers : 3amerha
