@@ -10,4 +10,4 @@ your (f) : 3amrik
 
 hers : 3amerha
 
-[Link](master/anotherpage.md)
+[Link](/anotherpage.md)
